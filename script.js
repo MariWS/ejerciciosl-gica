@@ -95,4 +95,42 @@ if(usernombreserver == nombreUser1 && userapellidoserver == apellidoUser2){
 /*Unidad 3*/
 
 
+/*Ejerc 15 Número cero par o impar*/
+
+/*Ejerc 16 Número, es múltiplo de 3*/
+
+/*Ejerc 17 Letra, si es una Vocal*/
+
+/*Ejerc 18 Rango Númerico y un Número. N pertenece al rango / N es par / no pertenece al rango / es impar ( dif min 5 number enteros) */ 
+
+/*Ejerc 19 User ingrese 2 number + 1 operador* calular operación/
+
+/*Ejerc 20 / 3 lados de triángulo / informar triang EQUILÁTERO - ISÓSCELES - ESCALENO */
+
+/*Ejerc 21 Sueldo / Categoria define sueldo básico mensual 
+a. cat 1 + 20hs extras bono u$s500
+b. cat 3 + 30hs extras bono u$s1000
+
+----indique si supera sueldo u$s 4000----*/
+
+/*Ejerc 22 3 number  / múltiplo de 3 / múltiplo de 5 / múltiplo de ambos / de ninguno */
+
+/*Ejerc 23 Rango Númerico / valores desconocidos / cada number pertenece al grupo / si pertence info si es par / si no pertenece info si es impar/ rango dif min de 5 number enteros */
+
+/*Ejerc 24 2 Number y 1 operador / calcular e info c/ operacion entre los 2 number*/ 
+
+/*Ejerc 25 Notas Parcial comisión / se desconoce cant Alumnos / info porcentaje alumn Aprob. Desapb y promedio notas ( aprb igual o sup a 4 / desap inferior a 4)*/
+
+/*Ejerc 26 cant Number Desconocida / calcular 
+    a. Suma valores 
+    b. el menos valor 
+    c. el mayor valor*/
+    
+/*Ejerc 27 Encuesta: H / M (sexo) - Edad (años) /Altura (cm) - 
+a. porcentaje de M mayores 25 años
+b. porcentaje de H menor a 18 años
+c. Promedio Edad M
+d. Promedio Altura H
+e. Menor Edad Ingresada
+f. Mayor altura Ingresada*/
 
