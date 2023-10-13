@@ -106,7 +106,7 @@ console.log( "Suma =" + " " + (suma) + " " + "Promedio =" + " " + (suma)/4 )
 
 /*Ejerc 12 Sueldos de una Empresa valor por horas - cant de horas trab. por mes y calcular sueldo mensual  */
 
-
+/**/ */
 
 
 /*Ejerc 13 Agregar Años de Antiguedad + bono 15% del sueldo por cada año de antiguedad*/
