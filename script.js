@@ -1,4 +1,4 @@
-/*Unidad 1*/
+                     /*Unidad 1*/
 
 
 /*Ejerc 1 Nombre y Apellido*/
@@ -63,7 +63,7 @@ console.log("Perímetro Circulo =" + " "  + (2 * 3.1416 * radio))
 
 console.log("Área Circulo =" + " " + 3.1416 * (radio * radio) )
 
-/*Unidad 2*/
+                        /*Unidad 2*/
 
 /*Ejerc 9 Nombre y Apellido + Bienvenida*/
 
@@ -81,18 +81,40 @@ if(usernombreserver == nombreUser1 && userapellidoserver == apellidoUser2){
 
 /*Ejerc 10 User ingrese Diámetro Circulo calcular Perímetro y área*/
 
+//radio=x
+//diámetro= 2*x 
+//perímetro=d*3.1416
+//área=3.1416*(x*x) 
+
+//user ingresa valor del díametro ej= 8
+
+var diametro= 8
+
+console.log("Perímetro =" + " " + diametro*3.1416 +" " + "Área = " + " " +  3.1416* ( diametro*diametro)/ 4 )  
+/* es lo mismo que decir ( 3.1416 * (diametro/2)*(diametro/2) ) */
 
 
-/*Ejerc 11 user ingrese 4 números sumar y sacar promedio( sumar los 4 y dividir el rdo *4 ese es el promedio)*/
+/*Ejerc 11. User ingresa 4 números sumar y sacar promedio ( es decir, sumar los 4 y dividir el rdo *4 para sacar el promedio)*/
+
+var number1= 2  
+var number2= 4
+var number3= 6
+var number4= 8
+var suma= (number1 + number2 + number3 + number4)
+
+console.log( "Suma =" + " " + (suma) + " " + "Promedio =" + " " + (suma)/4 )
 
 /*Ejerc 12 Sueldos de una Empresa valor por horas - cant de horas trab. por mes y calcular sueldo mensual  */
+
+
+
 
 /*Ejerc 13 Agregar Años de Antiguedad + bono 15% del sueldo por cada año de antiguedad*/
 
 /*Ejerc 14 valor de 1 horas - cant hs trab mes- */
 
 
-/*Unidad 3*/
+                        /*Unidad 3*/
 
 
 /*Ejerc 15 Número cero par o impar*/
@@ -112,6 +134,11 @@ a. cat 1 + 20hs extras bono u$s500
 b. cat 3 + 30hs extras bono u$s1000
 
 ----indique si supera sueldo u$s 4000----*/
+
+
+
+                    /*Unidad 4*/
+
 
 /*Ejerc 22 3 number  / múltiplo de 3 / múltiplo de 5 / múltiplo de ambos / de ninguno */
 
