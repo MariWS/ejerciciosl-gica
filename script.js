@@ -106,18 +106,58 @@ console.log( "Suma =" + " " + (suma) + " " + "Promedio =" + " " + (suma)/4 )
 
 /*Ejerc 12 Sueldos de una Empresa valor por horas - cant de horas trab. por mes y calcular sueldo mensual  */
 
-/**/ 
+var hora=550
+var horas= prompt("ingrese la cantidad de horas trabajadas")
+
+console.log("Sueldo Mensual:  " +( hora * horas))
+
+   alert("Sueldo Mensual:  " +( hora * horas)) 
+
 
 
 /*Ejerc 13 Agregar Años de Antiguedad + bono 15% del sueldo por cada año de antiguedad*/
 
+var valorhora=550
+var cantidadhoras= prompt("ingrese la cantidad de horas trabajadas")
+var antiguedad= prompt("Ingrese cantidad de años de antiguedad")
+var subtotal=(valorhora * cantidadhoras)
+var bono=(subtotal*15)/100
+
+var sueldo=((bono*antiguedad) + subtotal)
+
+
+console.log("Sueldo Mensual:  " + sueldo)
+
+   alert("Sueldo Mensual:  " + sueldo)
+
+
 /*Ejerc 14 valor de 1 horas - cant hs trab mes- */
 
+var horavseg=prompt("ingrese el valor de hora")
+var horasvtb= prompt("ingrese la cantidad de horas trabajadas")
+var antigvseg= prompt("Ingrese cantidad de años de antiguedad") 
+var seguros= prompt("Ingrese cantidad de seguros vendidos") 
+var precseguro= prompt("Ingrese valor seguro") 
+var bnoseguro= (precseguro*50)/100
+var sueldovseg= (horavseg*horasvtb)
+var bono25vseg= ((sueldovseg * 25)/100)*seguros
+var bono15vseg= ((sueldovseg*15)/100)*antigvseg
+var sueldovendseg= sueldovseg + bnoseguro + bono25vseg + bono15vseg  
+var valorhoravseg= sueldovendseg / horasvtb
+
+
+console.log( "sueldo mensual vendedor de seguros: " + sueldovendseg + " Valor por Hora: " + valorhoravseg)
+ 
 
                         /*Unidad 3*/
 
 
 /*Ejerc 15 Número cero par o impar*/
+
+
+
+
+
 
 /*Ejerc 16 Número, es múltiplo de 3*/
 
