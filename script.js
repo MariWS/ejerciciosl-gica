@@ -1,36 +1,41 @@
-/*Unidad 1*/
+                                              /*Unidad 1*/
 
 
 /*Ejerc 1 Nombre y Apellido*/
+/*
 var Usuarionombre = "Juan";
 var Usuarioapellido = "Perez";
 
 console.log(Usuarionombre + " " + Usuarioapellido)
+*/
 
 /*Ejerc 2 Promedio de 3 Notas*/
-
+/*
 var nota1 = 5;
 var nota2 = 7;
 var nota3 = 8;
 
 console.log(nota1 + nota2 + nota3)
+*/
 
 /*Ejerc 3 Perímetro Triangulo*/
-
+/*
 var lado1 = 5
 var lado2 = 5
 var lado3 = 7
 
 console.log(lado1 + lado2 + lado3)
+*/
 
 /*Ejerc 4 Perímetro y Área del Cuadrado*/
-
+/*
 var cuadradolados = 6
 
 console.log((cuadradolados * 4) + (lado1 + lado2 + lado3))
+*/
 
 /*Ejerc 5 Perímetro y Área del Rectángulo*/
-
+/*
 var rectladoA = 5
 var rectladoB = 8
 
@@ -40,34 +45,39 @@ var base = 12
 var altura = 8
 
 console.log("Área Rectángulo=" + " " + (base * altura))
+*/
 
 /*Ejerc 6 Resto de Div. Entera entre los valores*/
-
+/*
 var numer1 = 10
 var numer2 = 3
 
 console.log(10 % 3)
+*/
 
 /*Ejerc 7 msje:"Bienvenido"+ N y A del Usuario*/
-
+/*
 var nombreUser = "Mariela"
 var apellidoUser = "Tedesco"
 
 console.log(" Bienvenido" + " " + nombreUser + " " + apellidoUser)
+*/
 
 /*Ejerc 8 Perímetro y Área del Círculo*/
-
+/*
 var radio = 4
 
 console.log("Perímetro Circulo =" + " " + (2 * 3.1416 * radio))
 
 console.log("Área Circulo =" + " " + 3.1416 * (radio * radio))
+*/
 
-/*Unidad 2*/
+
+                                                /*Unidad 2*/
+
 
 /*Ejerc 9 Nombre y Apellido + Bienvenida*/
-
-
+/*
 const usernombreserver = "Ariel"
 const userapellidoserver = "Perez"
 
@@ -78,6 +88,7 @@ if (usernombreserver == nombreUser1 && userapellidoserver == apellidoUser2) {
 
     console.log("Bienvenido" + " " + nombreUser1 + " " + apellidoUser2)
 }
+*/
 
 /*Ejerc 10 User ingrese Diámetro Circulo calcular Perímetro y área*/
 
@@ -87,22 +98,23 @@ if (usernombreserver == nombreUser1 && userapellidoserver == apellidoUser2) {
 //área=3.1416*(x*x) 
 
 //user ingresa valor del díametro ej= 8
-
+/*
 var diametro = 8
 
-console.log("Perímetro =" + " " + diametro * 3.1416 + " " + "Área = " + " " + 3.1416 * (diametro * diametro) / 4)
+console.log("Perímetro =" + " " + diametro * 3.1416 + " " + "Área = " + " " + 3.1416 * (diametro * diametro) / 4)*/
+
 /* es lo mismo que decir ( 3.1416 * (diametro/2)*(diametro/2) ) */
 
 
 /*Ejerc 11. User ingresa 4 números sumar y sacar promedio ( es decir, sumar los 4 y dividir el rdo *4 para sacar el promedio)*/
-
+/*
 var number1 = 2
 var number2 = 4
 var number3 = 6
 var number4 = 8
 var suma = (number1 + number2 + number3 + number4)
 console.log("Suma =" + " " + (suma) + " " + "Promedio =" + " " + (suma) / 4)
-
+*/
 
 /*Ejerc 12 Sueldos de una Empresa valor por horas - cant de horas trab. por mes y calcular sueldo mensual  */
 
@@ -148,7 +160,7 @@ console.log( "sueldo mensual vendedor de seguros: " + sueldovendseg + " Valor po
   */
 
 
-                            /*Unidad 3*/
+                                        /*Unidad 3*/
 
 /*Ejerc 15 Numero cero par o impar*/
 
@@ -312,8 +324,9 @@ console.log("El sueldo mensual del empleado es: $" + sueldoMensual);
  */
 
 
-/*Unidad 4*/
+                                        /*Unidad 4*/
 
+                                        
 
 /*Ejerc 22 3 number  / múltiplo de 3 / múltiplo de 5 / múltiplo de ambos / de ninguno */
 
